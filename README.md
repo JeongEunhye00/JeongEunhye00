@@ -1,4 +1,5 @@
 ### Hi there 👋
+프로그래머스 [코테 문제 풀이 정리](https://stormy-babcat-b8a.notion.site/3524b5c9fa864ecd8b62fced8df83338)
 
 <!--
 **JeongEunhye00/JeongEunhye00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
